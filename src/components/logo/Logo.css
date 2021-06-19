@@ -1,0 +1,7 @@
+.Tilt {
+    background: radial-gradient(circle at center, rgb(255, 215, 0) 30%, rgb(80, 0, 255) 60%);
+}
+
+img {
+    padding-top: 26px;
+}

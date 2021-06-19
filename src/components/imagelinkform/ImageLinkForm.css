@@ -1,0 +1,12 @@
+button {
+    background: rgb(80, 0, 255)
+}
+
+input {
+    text-align: center;
+}
+
+.form {
+    width: 700px;
+    background-image: url("silver-scales.png")
+}
